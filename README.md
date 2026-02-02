@@ -1,4 +1,6 @@
-
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -156,7 +158,7 @@
     Looking for secure, professional IT or web services?
     Let’s talk about your needs.
   </p>
-  <a href="mailto:yourname@email.com">Contact CyberNet Solutions</a>
+  <a href="mailto:giganet.help@gmail.com">Contact CyberNet Solutions</a>
 </section>
 
 <footer>
